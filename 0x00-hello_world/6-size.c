@@ -4,7 +4,6 @@
  * code by bwave ict
  * Retuen: 0
 */
-
 int main(void)
 {
 	char a;
