@@ -4,7 +4,7 @@
 /**
  * main - prints exactly and that piece of art is useful.
  *
- * Reurn: Alway 1.
+ * Reurn: Always 1.
 */
 
 int main(void)
