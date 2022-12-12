@@ -2,8 +2,10 @@
 
 /*
  * main - print out sizes of data types in c
+ *
  * Retuen: Always 0 (success)
 */
+
 int main(void)
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
